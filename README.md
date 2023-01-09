@@ -1,4 +1,4 @@
-# adventOfCodeday10
+# adventOfCode2022day10
 
 https://adventofcode.com/2022/day/10
 
